@@ -1,0 +1,88 @@
+.body {
+    background-color: #0c0c0c; 
+    color: #e6e6e6;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#cards {
+    border-radius: 16px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+    background-color: #2e2e2e; 
+    color: #e0e0e0;
+    padding: 20px;
+}
+
+#card-title {
+    color: whitesmoke !important; 
+    font-family: 'Merriweather', serif;
+    font-weight: 70;
+}
+
+.card-text {
+    font-family: 'Montserrat', sans-serif;
+    color: #dcdcdc; 
+}
+
+.img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 12px;
+}
+
+.btn {
+    margin-right: 8px;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+
+.btn-outline-warning {
+    color: #ffb74d;
+    border-color: #ffb74d;
+}
+
+.btn-outline-warning:hover {
+    background-color: #ffb74d;
+    color: #1c1c1c;
+}
+
+.btn-outline-light {
+    color: #e0e0e0;
+    border-color: #e0e0e0;
+}
+
+.btn-outline-light:hover {
+    background-color: #e0e0e0;
+    color: #1c1c1c; 
+}
+
+#card-title{
+    color: whitesmoke;
+}
+
+#footer{
+    font-family: 'Montserrat', sans-serif;;
+    font-weight: normal;
+    display: block;
+    width: max-content;
+    color: #7f7f7f8a;
+}
+
+#footer:hover{
+    color: #cdcdcde0;
+}
+
+.source {
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(220, 220, 220);
+    font-size: smaller;    
+}
+.link{
+    color:#ff4141d8;
+}
+.link1{
+    color:#e0e0e0;
+    margin-left: 3px;
+}
