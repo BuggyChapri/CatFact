@@ -13,7 +13,7 @@ Thanks 👍
 
 If you want to run it on local Machine then, The things you need before installing the software.
 
-* You need nothing you 
+* You need nothing
 * Api names - unsplash, randomcatfact  
 
 ### Branches
